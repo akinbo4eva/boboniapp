@@ -8,5 +8,3 @@ export default class Ball extends Component {
         )
     }
 }
-
-
