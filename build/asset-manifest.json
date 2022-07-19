@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/akinbo4eva.github.io/bobo_lottery/static/css/main.de4c585c.css",
+    "main.js": "/akinbo4eva.github.io/bobo_lottery/static/js/main.d8ecb042.js",
+    "index.html": "/akinbo4eva.github.io/bobo_lottery/index.html",
+    "main.de4c585c.css.map": "/akinbo4eva.github.io/bobo_lottery/static/css/main.de4c585c.css.map",
+    "main.d8ecb042.js.map": "/akinbo4eva.github.io/bobo_lottery/static/js/main.d8ecb042.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de4c585c.css",
+    "static/js/main.d8ecb042.js"
+  ]
+}
