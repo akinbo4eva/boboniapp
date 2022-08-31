@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bobo_lottery/static/css/main.de4c585c.css",
+    "main.js": "/bobo_lottery/static/js/main.d8ecb042.js",
+    "index.html": "/bobo_lottery/index.html",
+    "main.de4c585c.css.map": "/bobo_lottery/static/css/main.de4c585c.css.map",
+    "main.d8ecb042.js.map": "/bobo_lottery/static/js/main.d8ecb042.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de4c585c.css",
+    "static/js/main.d8ecb042.js"
+  ]
+}
